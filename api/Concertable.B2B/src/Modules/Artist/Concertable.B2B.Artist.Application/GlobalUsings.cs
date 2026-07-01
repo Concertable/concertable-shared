@@ -1,4 +1,0 @@
-global using Concertable.Kernel;
-global using Concertable.Contracts;
-global using Concertable.B2B.Artist.Domain;
-global using Concertable.B2B.Artist.Contracts;

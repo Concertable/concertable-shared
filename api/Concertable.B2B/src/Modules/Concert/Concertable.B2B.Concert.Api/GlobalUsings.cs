@@ -1,9 +1,0 @@
-global using Concertable.Kernel;
-global using Concertable.Contracts;
-global using Concertable.B2B.Concert.Contracts;
-global using Concertable.B2B.Concert.Domain;
-global using Concertable.B2B.Contract.Contracts;
-global using Concertable.B2B.Concert.Application.Interfaces;
-global using Concertable.B2B.Concert.Application.DTOs;
-global using Concertable.B2B.Concert.Application.Requests;
-global using Concertable.B2B.Concert.Application.Responses;
